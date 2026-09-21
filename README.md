@@ -10,9 +10,9 @@
 
 | 项 | 地址 |
 |:---|:---|
-| **作者** | 邝楚嘉（Chujia Kuang）｜ 字虚竹 |
+| **作者** | 邝楚嘉（Chujia Kuang） |
 | **ORCID** | ⟨待补⟩ |
-| **个人主页 / 全部成果总入口** | <https://kuangchujia.wordpress.com> |
+| **个人主页 / 全部成果总入口** | <https://kuangchujia.com> |
 | **数据集 DOI（Zenodo）** | [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（concept DOI，永久指向最新版本） |
 | **预印本镜像仓库** | <https://github.com/Kuangchujia/kuangchujia-preprints> |
 | **配套数据集仓库** | <https://github.com/Kuangchujia/chinese-calendar-dataset> |
