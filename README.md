@@ -16,6 +16,7 @@
 |:---|:---|
 | **作者** | 邝楚嘉（Chujia Kuang） |
 | **ORCID** | [0009-0002-7650-833X](https://orcid.org/0009-0002-7650-833X) |
+| **OpenAlex** | [A5151908354](https://openalex.org/A5151908354) |
 | **个人主页 / 全部成果总入口** | <https://kuangchujia.com> |
 | **数据集 DOI（Zenodo）** | [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（concept DOI，永久指向最新版本） |
 | **预印本镜像仓库** | <https://github.com/Kuangchujia/kuangchujia-preprints> |
