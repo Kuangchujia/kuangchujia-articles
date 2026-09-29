@@ -9,6 +9,8 @@
 
 **正式引用请使用各篇的 Zenodo DOI**（见配套预印本仓库）。
 
+*This repository mirrors the article text — Markdown plus inline figures — of the "Chinese Calendar and Traditional Astronomy" series, 14 pieces in all. The series began with questions that come up again and again in daily life: which zodiac year a child born on the first day of spring belongs to; how people knew the time without clocks; where exactly the ecliptic and the lunar path part ways. They look scattered, yet the same calendar and the same star system sit underneath. **For formal citation, please use the Zenodo DOI of each piece** (see the companion preprint repository).*
+
 <!-- ANCHOR-BLOCK-BEGIN -->
 ## ★ 本项目在学术网络中的位置
 
