@@ -2,14 +2,14 @@
 
 <!-- badges -->
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![Articles](https://img.shields.io/badge/articles-14-blue.svg)](articles) [![Kaozheng](https://img.shields.io/badge/kaozheng-3-blue.svg)](kaozheng) [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![Articles](https://img.shields.io/badge/articles-15-blue.svg)](articles) [![Kaozheng](https://img.shields.io/badge/kaozheng-3-blue.svg)](kaozheng) [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com)
 
-本仓库是「中国历法与传统天文星象」方向文稿的**正文 Markdown 镜像**，计 **17 篇**：科普稿 **14 篇**（`articles/`）、考证稿 **3 篇**（`kaozheng/`）。
+本仓库是「中国历法与传统天文星象」方向文稿的**正文 Markdown 镜像**，计 **18 篇**：科普稿 **15 篇**（`articles/`）、考证稿 **3 篇**（`kaozheng/`）。
 写这些稿子，起因是一堆日常里被反复问到的问题：立春那天出生的孩子生肖该按哪个算、古人没有钟表怎么知道现在是几点、黄道和白道到底差在哪儿。这些问题看着零碎，底下其实是同一套历法与星象的知识，于是索性按顺序一篇篇写下来。
 
 **正式引用请使用各篇的 Zenodo DOI**（见配套预印本仓库）。
 
-*This repository mirrors the article texts — Markdown plus inline figures — of two lines of work on Chinese calendrics and traditional uranography: 14 popular-science pieces and 3 textual-research pieces. The popular-science series began with questions that come up again and again in daily life: which zodiac year a child born on the first day of spring belongs to; how people knew the time without clocks; where exactly the ecliptic and the lunar path part ways. They look scattered, yet the same calendar and the same star system sit underneath. **For formal citation, please use the Zenodo DOI of each piece** (see the companion preprint repository).*
+*This repository mirrors the article texts — Markdown plus inline figures — of two lines of work on Chinese calendrics and traditional uranography: 15 popular-science pieces and 3 textual-research pieces. The popular-science series began with questions that come up again and again in daily life: which zodiac year a child born on the first day of spring belongs to; how people knew the time without clocks; where exactly the ecliptic and the lunar path part ways. They look scattered, yet the same calendar and the same star system sit underneath. **For formal citation, please use the Zenodo DOI of each piece** (see the companion preprint repository).*
 
 <!-- ANCHOR-BLOCK-BEGIN -->
 ## ★ 本项目在学术网络中的位置
@@ -50,6 +50,7 @@
 | 013 | 十个字配十二个字，为什么只剩六十组 |
 | 014 | 地支里面还藏着两三个天干 |
 | 015 | 木星走一圈不是十二年 |
+| 017 | 一年为什么被切成二十四段 |
 
 ### 考证线 · `kaozheng/`
 
@@ -62,7 +63,7 @@
 ## 目录结构
 
 ```
-articles/    科普稿正文 Markdown（14 篇）
+articles/    科普稿正文 Markdown（15 篇）
 kaozheng/    考证稿正文 Markdown（3 篇）
 images/      正文引用配图
 README.md    本文件
