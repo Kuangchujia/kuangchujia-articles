@@ -21,6 +21,7 @@
 | **OpenAlex** | [A5151908354](https://openalex.org/A5151908354) |
 | **个人主页 / 全部成果总入口** | <https://kuangchujia.com> |
 | **数据集 DOI（Zenodo）** | [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（concept DOI，永久指向最新版本） |
+| **OSF 项目（开放研究镜像）** | <https://osf.io/3wvkh/> |
 | **预印本镜像仓库** | <https://github.com/Kuangchujia/kuangchujia-preprints> |
 | **配套数据集仓库** | <https://github.com/Kuangchujia/chinese-calendar-dataset> |
 | **本仓库** | <https://github.com/Kuangchujia/kuangchujia-articles> |
